@@ -40,11 +40,11 @@
  			</tr>
  			<tr>
  				<td>Suma:</td>
- 				<td><input type="text" name="text4" value=<% out.print(sum); %>/></td>
+ 				<td><input type="text" name="text4" value=<% out.print(sum); %>></td>
  			</tr>
  			<tr>
  				<td>Promedio:</td>
- 				<td><input type="text" name="text5" vale=<% out.print(prom); %>></td>
+ 				<td><input type="text" name="text5" value=<% out.print(prom); %>></td>
  			</tr>
  		</table>
  	</form>
