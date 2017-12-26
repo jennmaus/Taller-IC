@@ -36,8 +36,16 @@
  				<td><input type="text" name="text3"></td>
  			</tr>
  			<tr>
+ 				<td></td>
+ 				<td><input type="submit" value="enviar" name="ok" /></td>
+ 			</tr>
+ 			<tr>
  				<td>Suma:</td>
- 				<td><input type="text" name="text1"></td>
+ 				<td><input type="text" name="text4" vale=<% out.print(sum); %>/></td>
+ 			</tr>
+ 			<tr>
+ 				<td>Promedio:</td>
+ 				<td><input type="text" name="text5" vale=<% out.print(prom); %>></td>
  			</tr>
  		</table>
  	</form>
