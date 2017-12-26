@@ -37,7 +37,7 @@
  			</tr>
  			<tr>
  				<td></td>
- 				<td><input type="submit" value="enviar" name="ok" /></td>
+ 				<td colspan="2"><input type="submit" value="enviar" name="ok" /></td>
  			</tr>
  			<tr>
  				<td>Suma:</td>
