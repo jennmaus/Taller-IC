@@ -36,12 +36,11 @@
  				<td><input type="text" name="text3"></td>
  			</tr>
  			<tr>
- 				<td></td>
- 				<td colspan="2"><input type="submit" value="enviar" name="ok" /></td>
+ 				<td colspan="2" align="center"><input type="submit" value="enviar" name="ok" /></td>
  			</tr>
  			<tr>
  				<td>Suma:</td>
- 				<td><input type="text" name="text4" vale=<% out.print(sum); %>/></td>
+ 				<td><input type="text" name="text4" value=<% out.print(sum); %>/></td>
  			</tr>
  			<tr>
  				<td>Promedio:</td>
